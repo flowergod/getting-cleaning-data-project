@@ -18,9 +18,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 5.  从第4步的数据集中，针对每个活动和每个主题使用每个表里的平均值建立第2个独立的整洁数据集。
 
 ## 项目内容
-. README.md: 项目内容和使用方法介绍
-. CodeBook.md: 变量和编码的说明，以及数据转换工作说明
-. run_analysis.R: 数据处理脚本
+* README.md: 项目内容和使用方法介绍
+* CodeBook.md: 变量和编码的说明，以及数据转换工作说明
+* run_analysis.R: 数据处理脚本
 
 ## 使用方法
 1. 下载项目原始数据，并解压缩到UCI HAR Dataset目录下
